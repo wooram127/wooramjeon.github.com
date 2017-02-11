@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 종점을 향해
+email: ram127@naver.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -8,9 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 description: One sentence introducing yourself or what you do
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
+facebook: ""
+linkedin: ""
+github: ""
 deviantart: username
 codepen: username
 
